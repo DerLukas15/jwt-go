@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/dgrijalva/jwt-go"
+	"github.com/DerLukas15/jwt-go/v4"
 )
 
 var ed25519TestData = []struct {

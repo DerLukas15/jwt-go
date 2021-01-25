@@ -2,7 +2,7 @@ package test
 
 import (
 	"crypto/rsa"
-	"github.com/dgrijalva/jwt-go"
+	"github.com/DerLukas15/jwt-go/v4"
 	"io/ioutil"
 )
 
