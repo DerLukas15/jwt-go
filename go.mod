@@ -1,4 +1,4 @@
-module github.com/DerLukas15/jwt-go
+module github.com/dgrijalva/jwt-go
 
 go 1.15
 
